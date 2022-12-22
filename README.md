@@ -7,7 +7,7 @@ MAMA SHOPได้แรงบันดาลใจมาจากZARA THAILAND
 -responsive design✔️
 
 
-all images from unsplash.
-fonts from google font.
-icons from bootstrap5 and flaticon.
+all images from unsplash.<br>
+fonts from google font.<br>
+icons from bootstrap5 and flaticon.<br>
 animation : anime.js,GSAP.
