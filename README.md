@@ -1,10 +1,10 @@
 # Landing-Page-Clothing-Shop
 
-MAMA SHOPได้แรงบันดาลใจมาจากZARA THAILAND
+MAMA SHOPได้แรงบันดาลใจมาจากZARA THAILAND <br><br>
 
 
--modal box✔️
--responsive design✔️
+- modal box✔️<br>
+- responsive design✔️<br><br>
 
 
 all images from unsplash.<br>
