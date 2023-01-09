@@ -1,4 +1,4 @@
-# Landing-Page-Clothing-Shop
+# HomePage-Clothing-Shop
 
 MAMA SHOPได้แรงบันดาลใจมาจากZARA THAILAND <br><br>
 
